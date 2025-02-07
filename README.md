@@ -6,6 +6,7 @@ This dataset focuses on Target's operations in Brazil, covering 100,000 orders p
 
 # Features
 The data is available in 8 csv files:
+![Uploading image.png…]()
 
 customers.csv
 sellers.csv
