@@ -1,10 +1,10 @@
-## E-Commerce (Target) Sales Dataset
-# About Dataset
+# E-Commerce (Target) Sales Dataset
+## About Dataset
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.
 
 This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
 
-# Features
+## Features
 The data is available in 8 csv files:
 
 customers.csv
@@ -14,8 +14,9 @@ geolocation.csv
 payments.csv
 orders.csv
 products.csv
-# Potential Use Cases
+
+## Potential Use Cases
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
 
-# Dataset Schema
+## Dataset Schema
 <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2Fb15a300fe807965428250762308c248b%2FUntitled.png?generation=1716400390272599&alt=media">
