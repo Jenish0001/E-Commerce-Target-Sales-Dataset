@@ -1,4 +1,4 @@
-# E-Commerce (Target) Sales Dataset
+# E-Commerce Sales Dataset
 ## About Dataset
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.
 
